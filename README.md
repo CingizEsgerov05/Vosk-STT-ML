@@ -1,4 +1,4 @@
-# 🎤 Vosk STT Project
+# 🎤 Vosk STT (Machine Learning + Data Science) Project
 
 This project is a **Speech-to-Text (STT)** system built using the **Vosk** library. It supports both **real-time (streaming)** and **offline (non-streaming)** processing.  
 
